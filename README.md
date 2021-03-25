@@ -17,4 +17,4 @@ I created a Shopping List App which allows you to input a product you want, inpu
 -Code fully integrated into a Version Control System using the Feature-Branch model which will subsequently be built through a CI server and deployed to a cloud-based virtual machine.
 
 # Trello Board
-You can find my Trello Board here :) https://trello.com/b/7HEuH9vk/simple-project-board
+You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
