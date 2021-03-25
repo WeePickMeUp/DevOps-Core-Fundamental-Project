@@ -1,5 +1,5 @@
 # DevOps Core Fundamental Project
-I created a Shopping List App which allows you to input a product you want, INPUT which group it belongs too (like Dairy or Healthcare or Protein), edit whether or not you have or haven't picked it up yet and the ability remove it from your list entirely. 
+I created a Shopping List App which allows you to input a product you want, input which group it belongs too (like Dairy or Healthcare or Protein), edit whether or not you have or haven't picked it up yet and the ability remove it from your list entirely. 
 
 # Requirements
 -A Trello board (or equivalent Kanban board tech) with full expansion on user stories, use cases and tasks needed to complete the project. It could also provide a record of any issues or risks that you faced creating your project.
