@@ -20,6 +20,11 @@
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/trello%20board.PNG)
 - You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
 
+# Database Layout
+![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/Shopping%20List%20Database.jpg)
+
+# My Design Process
+
 # Risk Assessment
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/risk%20assessment.PNG)
 
