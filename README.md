@@ -24,6 +24,10 @@
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/Shopping%20List%20Database.jpg)
 
 # My Design Process
+To begin my creation of my app I used GCP to host a Virtual Linux Machine. Using a startup script from my peer, I  was able to install VS Code directly on the the VM and bypass having to ssh into the VS Code terminal using Remote Desktop Connection. I was able to use my VMs GUI and input my code directly onto the VS Code installed on the VM. Using a folder template from QA Community I created all my folders and all my files and made a basic app which responds "Hi". I then began planning my app and put in research into strengthening certain areas of my fundamentals as well as using everything I managed to learn. I then decided that I would make a Shopping List app. So using MySQL to create a database, I created my first table and some basic routes to create a single html that would store some information and have the ability to remove it. I then began writing tests for these routes and my app and it did not go well. So I put it on hold  
+  
+
+This is a diagram showing you the flow of my pipeline and how I have integrated all that we have been taught. MySQL database is hosted on GCP along with my Virtual Machine (VM). All my code is then written in VsCode, which is installed on my VM, and this is linked to my GitHub repository. All my changes are pushed to my develop branch to make sure that there are no conflicts between branches. Then my testing is again written in VsCode and is tested using pytest, this is to make sure that there are no errors in my code and that the pass rate returns at 80% or above. If successful and the pass rate is above 80%, the code is then pushed to my develop branch before merging with the master branch. If unsuccessful, or the pass rate is lower than 80% then I return to the previous step and check the errors in my code and fix any issues. Once the code has been pushed to my master branch, Jenkins can run and host the live application.
 
 # Risk Assessment
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/risk%20assessment.PNG)
@@ -31,6 +35,10 @@
 # Test Results
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/test.PNG)
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/test2.PNG)
+
+# Jenkins
+![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/jenkins.PNG)
+I deployed my app under the name Hello World. 
 
 # References
 - My images can be found im my Public Repository "WeePickMeUp-DevOps-Core-Fundamental-Project-Images": https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images
