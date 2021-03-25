@@ -24,7 +24,7 @@
 - My images can be found im my Public Repository "WeePickMeUp-DevOps-Core-Fundamental-Project-Images": https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images
 - I used a startup script in my Linux VM to pre-install VS Code and worked directly on my instance through Remote Desktop connection. This was given to me by a peer. Unfortunately I don't have a direct link to the repository he stored the script in but the script is located in startup.bash
 
-- - I used everything I've learnt from Dara Oladapo and QA Community to contribue to my code: https://www.youtube.com/user/DaraOladapo | https://qa-community.co.uk/~/_/learning
+- I used everything I've learnt from Dara Oladapo and QA Community to contribue to my code: https://www.youtube.com/user/DaraOladapo | https://qa-community.co.uk/~/_/learning
 
 - I used Stack Overflow for general error queries through my coding: https://stackoverflow.com/
 
