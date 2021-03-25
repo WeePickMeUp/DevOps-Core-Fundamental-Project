@@ -1,0 +1,9 @@
+# pip3 install -r requirements.txt
+
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+pymysql
+
+# python3 -m venv venv
+# source venv/bin/activate

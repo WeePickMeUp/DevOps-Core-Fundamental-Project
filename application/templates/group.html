@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        body {
+          background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-orange-web-solid-color-background.jpg');
+        }
+        </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Item Price</title>
+</head>
+<body>
+
+    <h1>Welcome to your Price List.</h1>
+
+
+    <form action="/creategroup" method="POST">
+        <div>
+            <label for="title">Price £</label>
+            <input type="text" name="title" placeholder="Write the price here">
+            <button type = "submit">Add Price</button>
+        </div>
+    </form>
+
+    {% for Groups in groups_list %}
+
+        <p> {{ Groups.id }} | {{ Groups.title }}</p>
+
+        <a href="/deletegroup/{{ Groups.id }}">Remove Price?</a>
+
+    {% endfor %}
+
+
+    <form>
+
+        <a href="http://127.0.0.1:5000/">>Go to Product List</a>
+
+    </form>
+
+    <h1>Do you want to combine the Product List to the Price List?</h1>
+
+    <form>
+
+        <a href="http://127.0.0.1:5000/read">>Go to the combined list</a>
+
+    </form>
+    
+</body>
+</html>

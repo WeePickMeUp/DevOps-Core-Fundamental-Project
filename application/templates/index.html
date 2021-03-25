@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        body {
+          background-image: url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-orange-web-solid-color-background.jpg');
+        }
+        </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+</head>
+<body>
+
+    <h1>Welcome to your Product List.</h1>
+
+    <form action="/create" method="POST">
+        <div>
+            <label for="title">Product</label>
+            <input type="text" name="title" placeholder="Write the product here">
+            <button type = "submit">Add Product
+        </div>
+    </form>
+
+    {% for Name in name_list %}
+
+       
+        <p> {{ Name.id }} | {{ Name.title }}</p>
+
+        {% if Name.complete == False %}
+            <span>Don't got it...</span> 
+        {% else %}
+            <span>Got it!</span>
+        {% endif %}
+
+        <a href="/update/{{ Name.id }}">Have you got your item?</a>
+        <a href="/delete/{{ Name.id }}">Remove item?</a>
+
+    {% endfor %}
+
+    <a href="http://127.0.0.1:5000/group">>Go to Price list</a>
+
+
+    <h1>Do you want to combine the Product List to the Price List?</h1>
+
+    <form>
+
+        <a href="http://127.0.0.1:5000/read">>Go to the combined list</a>
+
+    </form>
+
+</body>
+</html>
