@@ -18,7 +18,7 @@ I created a Shopping List App which allows you to input a product you want, inpu
 
 # Trello Board
 ![alt text](https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images/blob/main/trello%20board.PNG)
-You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
+- You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
 
 # References
 - My images can be found im my Public Repository "WeePickMeUp-DevOps-Core-Fundamental-Project-Images": https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images
