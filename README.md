@@ -26,10 +26,10 @@ You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-p
 
 - For Pytest help I used these YouTube videos: https://youtu.be/7BJ_BKeeJyM | https://youtu.be/bbp_849-RZ4
 
-- For help with Python I also needed some support from:
+- For Python help I also needed some support from:
 https://www.w3schools.com/python/default.asp
 
-- For help with HTML I also needed some support from:
+- For HTML help I also needed some support from:
 https://www.w3schools.com/html/default.asp
 
 - To get a better understanding of project structure and CRUD fundamentals I used: https://www.digitalocean.com/community/tutorials/build-a-crud-web-app-with-python-and-flask-part-one | https://www.codementor.io/@garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2
