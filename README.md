@@ -18,3 +18,28 @@ I created a Shopping List App which allows you to input a product you want, inpu
 
 # Trello Board
 You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
+
+# References
+- I used everything I've learnt from Dara Oladapo and QA Community to contribue to my code. 
+
+- For Pytest help I used these YouTube videos: 
+https://youtu.be/7BJ_BKeeJyM
+https://youtu.be/bbp_849-RZ4
+
+- For help with Python I also needed some support from:
+https://www.w3schools.com/python/default.asp
+
+- For help with HTML I also needed some support from:
+https://www.w3schools.com/html/default.asp
+
+- To get a better understanding of project structure and CRUD fundamentals I used:
+https://www.digitalocean.com/community/tutorials/build-a-crud-web-app-with-python-and-flask-part-one
+https://www.codementor.io/@garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2
+
+- I also used a Live Tutorial on YouTube to understand the design process of a CRUD app and what you can do in HTML:
+https://youtu.be/XTpLbBJTOM4
+
+- To build a base for my app and understand what each line of code does I used a Todo app tutorial:
+-https://youtu.be/yKHJsLUENl0
+
+
