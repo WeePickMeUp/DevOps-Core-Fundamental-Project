@@ -22,7 +22,7 @@ You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-p
 # References
 - I used everything I've learnt from Dara Oladapo and QA Community to contribue to my code. 
 
-- I used a startup script in my Linux VM to pre-install VS Code and worked directly on my instance through Remote Desktop connection. This was given to me by a peer. Unfortunately I don't have a direct link to the repository he stored the script in. 
+- I used a startup script in my Linux VM to pre-install VS Code and worked directly on my instance through Remote Desktop connection. This was given to me by a peer. Unfortunately I don't have a direct link to the repository he stored the script in but the script is located in startup.bash
 
 - For Pytest help I used these YouTube videos: https://youtu.be/7BJ_BKeeJyM | https://youtu.be/bbp_849-RZ4
 
