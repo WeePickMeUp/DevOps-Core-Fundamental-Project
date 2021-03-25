@@ -20,6 +20,9 @@
 ![alt text](https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images/blob/main/trello%20board.PNG)
 - You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
 
+# Risk Assessment
+![alt text](https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images/blob/main/risk%20assessment.PNG)
+
 # References
 - My images can be found im my Public Repository "WeePickMeUp-DevOps-Core-Fundamental-Project-Images": https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images
 - I used a startup script in my Linux VM to pre-install VS Code and worked directly on my instance through Remote Desktop connection. This was given to me by a peer. Unfortunately I don't have a direct link to the repository he stored the script in but the script is located in startup.bash
