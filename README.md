@@ -20,6 +20,8 @@ I created a Shopping List App which allows you to input a product you want, inpu
 You can find my updated Trello Board here https://trello.com/b/7HEuH9vk/simple-project-board
 
 # References
+- My images can be found im my Public Repository "WeePickMeUp-DevOps-Core-Fundamental-Project-Images": https://github.com/WeePickMeUp/WeePickMeUp-DevOps-Core-Fundamental-Project-Images
+
 - I used everything I've learnt from Dara Oladapo and QA Community to contribue to my code. 
 
 - I used a startup script in my Linux VM to pre-install VS Code and worked directly on my instance through Remote Desktop connection. This was given to me by a peer. Unfortunately I don't have a direct link to the repository he stored the script in but the script is located in startup.bash
