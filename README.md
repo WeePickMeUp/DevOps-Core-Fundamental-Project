@@ -14,3 +14,5 @@
 -A functioning front-end website and integrated API's, using Flask.
 
 -Code fully integrated into a Version Control System using the Feature-Branch model which will subsequently be built through a CI server and deployed to a cloud-based virtual machine.
+
+# Trello Board
