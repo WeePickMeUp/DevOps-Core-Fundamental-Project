@@ -30,7 +30,9 @@ Using a folder template from QA Community I created all my folders and all my fi
 
 I then decided that I would make a Shopping List app. So using MySQL to create a database, I created my first table and some basic routes to create a single html that would store some information and have the ability to remove it. Using Unit Testing, Pytest and Coverage I then began writing tests for these routes as well as my app and it did not go well. So I put it on hold and decided I would come back later. 
 
-I then spent a few days evolving my app. To do this I developed my routes, added a table with a relationship and finalised created a fuctioning front-end website. I then pushed all my files to git and, using Jenkins, I enabled the ability of continuous integration into my app.
+I then spent a few days evolving my app. To do this I developed my routes, added a table with a relationship and finalised created a fuctioning front-end website. I then returned to testing my code and tried to figure out my tests. I had more success and figured out I was testing for a "GET" function rather than a "POST" and began writing my tests. First, I wrote a brief setup which created my tables and input some pre-determined information and used this as a basis to test some functions. I tested that my app would return a response status code 200 when calling upon my website as well as running tests on my POST functions and prove that it would output inputted information directly onto my website. 
+
+I then pushed all my files to git and, using Jenkins, I enabled the ability of continuous integration into my app.
 
 # Risk Assessment
 ![alt text](https://github.com/WeePickMeUp/DevOps-Core-Fundamental-Project/blob/main/images/risk%20assessment.PNG)
